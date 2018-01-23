@@ -1,3 +1,3 @@
-# Personalized-Medicine
+# Personalized-Medicine - kaggle Competition
 
-[I'm an inline-style link](https://www.google.com)
+[Details: ](https://www.kaggle.com/c/msk-redefining-cancer-treatment)
